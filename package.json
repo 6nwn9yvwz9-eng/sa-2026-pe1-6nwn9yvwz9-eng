@@ -1,0 +1,21 @@
+{
+  "name": "sa-2026-pe1-6nwn9yvwz9-eng",
+  "version": "1.0.0",
+  "description": "Course project scaffold for 2026 Applied Economics, personal track.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vib-system-analysis/sa-2026-pe1-6nwn9yvwz9-eng.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vib-system-analysis/sa-2026-pe1-6nwn9yvwz9-eng/issues"
+  },
+  "homepage": "https://github.com/vib-system-analysis/sa-2026-pe1-6nwn9yvwz9-eng#readme"
+}
